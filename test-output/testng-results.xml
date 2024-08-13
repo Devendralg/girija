@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-13T10:57:10 IST" name="Default suite" finished-at="2024-08-13T10:57:18 IST" duration-ms="8331">
+    <groups>
+    </groups>
+    <test started-at="2024-08-13T10:57:10 IST" name="Default test" finished-at="2024-08-13T10:57:18 IST" duration-ms="8331">
+      <class name="webElement.TextBox">
+        <test-method signature="withPlaceHolder()[pri:0, instance:webElement.TextBox@515aebb0]" started-at="2024-08-13T10:57:10 IST" name="withPlaceHolder" finished-at="2024-08-13T10:57:18 IST" duration-ms="8205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withPlaceHolder -->
+      </class> <!-- webElement.TextBox -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
